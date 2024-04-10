@@ -82,6 +82,11 @@
 			"#": "11",
 			"$import": "templates/zooz_template.json#impulse_duration"
 		}
+		},
+		{
+			"#": "12",
+			"$import": "templates/zooz_template.json#zen5x_external_switch_multiple_click"
+		}
 	],
 	"metadata": {
 		"$import": "templates/zooz_template.json#zen5x_metadata",
